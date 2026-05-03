@@ -73,7 +73,7 @@ Description of another significant project.
 ## 🤝 Let's Connect
 
 - 📧 **Email**: [vlsipatshala@gmail.com](mailto:vlsipatshala@gmail.com)
-- 🌐 **Portfolio/Website**: [Your Website](https://yourwebsite.com)
+- 🌐 **Portfolio/Website**: [VLSI Patshala](https://vlsipatshala.com/)
 - 📝 **Blog**: [Your Blog](https://yourblog.com)
 
 ---
